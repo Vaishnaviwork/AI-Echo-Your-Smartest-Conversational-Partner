@@ -1,4 +1,5 @@
-⭐ AI Echo: Your Smartest Conversational Partner 💬
+⭐ AI Echo: Your Smartest Conversational Partner 
+
 🚀 Project Overview
 AI Echo is a comprehensive Sentiment Analysis project focused on extracting actionable insights from user reviews of a major conversational AI application (like ChatGPT). 
 Leveraging advanced Natural Language Processing (NLP) techniques and Machine Learning models, this project aims to quantify user satisfaction, identify pain points, and drive data-backed improvements to the customer experience.
